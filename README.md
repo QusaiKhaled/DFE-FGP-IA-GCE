@@ -1,4 +1,3 @@
-```markdown
 # Interpretable Fuzzy Systems for Forward Osmosis Desalination
 
 This repository contains the code and resources for the paper **Interpretable Fuzzy Systems for Forward Osmosis Desalination**  
